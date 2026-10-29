@@ -1,2 +1,3 @@
 My first command
 My second command
+My 3rd line
